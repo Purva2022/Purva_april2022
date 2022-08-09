@@ -1,0 +1,6 @@
+steps for github
+1.config name and email
+2.create branch on github
+3.check if barnch is created or not
+4.checkout on that branch means switch on that branch
+5.made changes or create any document
